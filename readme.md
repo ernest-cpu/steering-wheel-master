@@ -212,4 +212,5 @@ For Assetto Corsa, if you are using ***Content Manager*** as game launcher, you 
 - [v3.5](https://github.com/Luke460/steering-wheel-master/releases): Multiple input csv selection to maximize accuracy.
 
 - [v3.5.2-e](https://github.com/ernest-cpu/steering-wheel-master/releases): Increased FFB power enhancement multiplier.
-(images/Screenshot 2023-03-23 050051.png)
+
+<img width="540" alt="Screenshot 2023-03-23 050051" src="https://user-images.githubusercontent.com/70729135/227154062-dfe26564-a7d0-44d2-90e1-7dddc9574a17.png">
