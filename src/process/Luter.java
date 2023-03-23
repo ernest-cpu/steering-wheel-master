@@ -121,7 +121,7 @@ public class Luter {
 
 	public static ArrayList<Double> alterLutCurve(ArrayList<Double> inputList, int alterationParameter) {
 		ArrayList<Point> input = LineManager.transformIntoLine(inputList);
-		double c = 0.015;
+		double c = 0.031;
 		ArrayList<Point> output = new ArrayList<>();
 		double maxX = input.get(input.size()-1).getX();
 		for(Point point: input) {
